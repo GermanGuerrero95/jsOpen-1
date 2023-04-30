@@ -1,0 +1,20 @@
+{
+  "name": "jsopen-1",
+  "version": "1.0.0",
+  "description": "Tarea1-js",
+  "main": "index.js",
+  "scripts": {
+    "tarea":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanGuerrero95/jsOpen-1.git"
+  },
+  "author": "Germán Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanGuerrero95/jsOpen-1/issues"
+  },
+  "homepage": "https://github.com/GermanGuerrero95/jsOpen-1#readme"
+}
